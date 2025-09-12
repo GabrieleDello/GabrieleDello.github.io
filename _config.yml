@@ -1,0 +1,15 @@
+title: "Gabriele Dell'Orto"
+email: "your-email@example.com"
+description: "Personal blog"
+baseurl: ""            # leave empty for username.github.io
+url: "https://gabrieledello.github.io"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
+
+author:
+  name: "Gabriele Dell'Orto"
+
+github_username: "gabrieledello"
