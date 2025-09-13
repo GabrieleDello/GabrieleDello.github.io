@@ -5,6 +5,7 @@ date: 2025-09-12 10:00:00 +0200
 categories: [research, publications]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
+header-img: "/assets/img/cover-page-dissertation.jpg"
 ---
 
 This dissertation contains large part of my recent years. It is the result of hard work paid off. You can read it here:
