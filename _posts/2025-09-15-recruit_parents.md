@@ -16,8 +16,8 @@ As researchers at KTH Royal Institute of Technology, we are studying vibrations 
 **How can you help?**
 It's simple! We will mount a small, lightweight acceleration sensor on your bicycle for few days. This will allows us to record the accelerations experienced by the children during transport. You just use it as you normally would on your morning trip to school. That's it! No special instructions or changes to your routine.
 
-    • Forget it's there! The sensor just quietly collects data\
-    • No stress. There are no special requests or tasks for you
+• Forget it's there! The sensor just quietly collects data\
+• No stress. There are no special requests or tasks for you
 
 We are looking for parents who use:\
 ✔️ Cargo Bikes\
