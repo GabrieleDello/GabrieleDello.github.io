@@ -5,7 +5,7 @@ date: 2025-09-13 10:00:00 +0200
 categories: [research, networking]
 tags: [researchgate, profile]
 author: "Gabriele Dell'Orto"
-header-img: "/assets/img/background.jpg"
+header_image: "/assets/img/background.jpg"
 ---
 
 I’m also active on **ResearchGate**, where I share publications, collaborations, and research updates.  
