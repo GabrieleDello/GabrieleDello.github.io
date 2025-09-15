@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Stockholm-based parents!"
-date: 2025-09-15 15:00:00 +0200
+date: 2025-09-15 10:00:00 +0200
 categories: [research, networking]
 tags: [openscience, call]
 author: "Gabriele Dell'Orto"
