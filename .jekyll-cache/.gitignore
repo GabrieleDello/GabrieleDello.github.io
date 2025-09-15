@@ -1,5 +1,4 @@
 # ignore everything in this directory
 
 _site/
-_includes/
 .jekyll-cache/
