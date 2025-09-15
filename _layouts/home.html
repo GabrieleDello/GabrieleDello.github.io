@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!-- Page Header-->
+<header class="masthead" style="background-image: url('{{ site.header_image | relative_url }}')">
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="site-heading">
+      <h1>{{ site.title }}</h1>
+      <span class="subheading">{{ site.description }}</span>
+    </div>
+  </div>
+</header>
+
+<!-- Main Content-->
+<div class="container px-4 px-lg-5">
+  <div class="row gx-4 gx-lg-5 justify-content-center">
+    <div class="col-md-10 col-lg-8 col-xl-7">
+      {% for post in site.posts %}
+      <div class="post-preview">
+        <a href="{{ post.url | relative_url }}">
+          <h2 class="post-title">{{ post.title }}</h2>
+          {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+          {% endif %}
+        </a>
+        <p class="post-meta">
+          Posted by {{ post.author | default: site.author }} on {{ post.date | date: "%B %d, %Y" }}
+        </p>
+      </div>
+      <hr class="my-4" />
+      {% endfor %}
+    </div>
+  </div>
+</div>

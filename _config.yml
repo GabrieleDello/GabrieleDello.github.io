@@ -1,8 +1,9 @@
 title: "Gabriele Dell'Orto"
 email: "gabriele.dellorto95@gmail.com"
-description: "Blog & Thoughts"
+description: "Food-4-Thoughts"
 baseurl: ""            # leave empty for username.github.io
 url: "https://gabrieledello.github.io"
+#header_image: /assets/img/Homepage-cover.jpg
 
 plugins:
   - jekyll-remote-theme
