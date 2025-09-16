@@ -27,7 +27,7 @@ Sign up filling the [form]()
 
 Or contact us directly:\
 Dr. Malte Rothhämel, Dr. Gabriele Dell’Orto | KTH Royal Institute of Technology\
-email: dellorto@kth.se
+email: **dellorto@kth.se**
 
 **Your journey can help make a difference!**
 
