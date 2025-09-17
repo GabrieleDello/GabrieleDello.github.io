@@ -25,7 +25,7 @@ We are looking for parents who use:\
 
 Contact us direct
 Dr. Malte Rothhämel, Dr. Gabriele Dell’Orto | KTH Royal Institute of Technology\
-email: [**dellorto@kth.se,m2rotmal@kth.se**](mailto:dellorto@kth.se,m2rotmal@kth.se), with object "Child Vibration Exposure"
+email: [**m2rotmal@kth.se**,**dellorto@kth.se** ](mailto:m2rotmal@kth.se,dellorto@kth.se), with object "Child Vibration Exposure"
 
 **Your journey can help make a difference!**
 
