@@ -9567,4 +9567,10 @@ header.masthead .post-heading .meta a {
   }
 }
 
+/* Hide email button */
+.email-button, 
+a[href*="mailto"] {
+    display: none !important;
+}
+
 /*# sourceMappingURL=main.css.map */
