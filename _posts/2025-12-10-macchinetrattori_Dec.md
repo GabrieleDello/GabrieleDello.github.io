@@ -7,6 +7,9 @@ tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
 header-img: "/assets/img/MC_RS2B_X5_P3.jpg"
 ---
+<p style="text-align:center">
+  <img src="/assets/img/MC_RS2B_X5_P3.jpg" alt="Tractor article cover" style="max-width:100%;">
+</p>
 
 What do I enjoy in my free time? Since I was a child, I have been very keen on tractors and agricultural machines. Still nowadays I use to visit farms, contractors, and fairs. 
 
@@ -15,3 +18,8 @@ So? I joined the italian magazine "[Macchine Trattori](https://www.macchinetratt
 Here is the last publication. Enjoy reading it.
 
 PS It is in Italian! 
+
+<embed src="/assets/pdf/macchinetrattori_dec.pdf"
+       type="application/pdf"
+       width="100%"
+       height="600px">
