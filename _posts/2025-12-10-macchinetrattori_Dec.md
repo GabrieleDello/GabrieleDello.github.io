@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New piece on tractors magazine is out"
+title: "New piece is out on tractors magazine"
 date: 2025-12-10 10:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
