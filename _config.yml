@@ -1,12 +1,14 @@
 title: "Gabriele Dell'Orto"
-# email: "gabriele.dellorto95@gmail.com"
-description: "Food-4-Thoughts"
+description: "Mechanical engineer researching bicycle dynamics, tyre modelling, vehicle stability, and agricultural machinery."
 header_image: "/assets/img/Homepage-cover.jpg"
+
 baseurl: ""            # leave empty for username.github.io
 url: "https://gabrieledello.github.io"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 remote_theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
 
