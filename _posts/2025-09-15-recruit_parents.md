@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Call for cyclist parents!"
+title: "Call for cyclist parents"
 date: 2025-10-10 10:00:00 +0200
 categories: [research, networking]
 tags: [openscience, call]

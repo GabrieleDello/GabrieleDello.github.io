@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video from PhD defense is out!"
+title: "Video from PhD defense is out"
 date: 2025-09-14 10:00:00 +0200
 categories: [research, defense, phd]
 tags: [defense, phd, dissertation]
