@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trends from Agritechnica 2025"
-date: 2025-12-30 10:00:00 +0200
+date: 2025-12-30 09:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
