@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Trends from Agritechnica 2025"
-date: 2025-12-10 10:00:00 +0200
+title: "Trends from Agritechnica"
+date: 2025-12-30 10:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
@@ -15,4 +15,3 @@ Today, we release the January 2026 [Macchine Trattori issue](https://www.macchin
 The issue is in Italian, however the website is also available in English: "[Macchine Trattori - English](https://www.macchinetrattori.info/en/)"
 
 Cover credits: [Agritechnica>Press>Photos](https://www.agritechnica.com/en/press/photos/agritechnica-impressions-from-the-hall)
-
