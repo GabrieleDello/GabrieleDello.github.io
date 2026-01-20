@@ -9,7 +9,7 @@ header_image: "/assets/img/QuadroDisc_gras.jpg"
 ---
 
 It was a cold yet sunny day of November when I had the pleasure of visiting the Dutch contractor [Ten Hove](https://www.tenhovekamperveen.nl/) in Kamperveen. Jacco and Ryan Ten Hove welcomed me for a pleasant conversation in front of a cup of coffee.
-We discussed about the history of their company, future business perspectives, and agricultural equipment. 
+We discussed the history of their company, future business perspectives, and agricultural equipment. 
 This conversation turned out to be a nice piece published in ["Il Contoterzista"](https://contoterzista.edagricole.it/contoterzista-la-rivista/), the official magazine of the Italian contractors' body [CAI Agromec](http://www.caiagromec.it/).
 
 I acknowledge Jacco and Ryan Ten Hove for their willingness to share the history of their family business. A special thanks goes to Thijs Jacobsen, who made the interview possible. 
