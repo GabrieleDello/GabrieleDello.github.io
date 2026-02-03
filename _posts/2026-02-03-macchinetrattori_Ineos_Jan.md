@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ineos Grenadier Quartemaster: unstoppable"
+title: "Ineos Grenadier Quartermaster: unstoppable"
 date: 2026-02-03 09:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
