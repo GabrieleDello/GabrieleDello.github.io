@@ -5,7 +5,7 @@ date: 2026-01-20 08:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
-header_image: "/assets/img/QuadroDisc_gras.jpg"
+header_image: "/assets/img/forwarder.jpg"
 ---
 
 Arriving at the Enköping train station, a small town about an hour from Stockholm, the thermometer reads minus four degrees. The air is sharp, the sky clear and blue, and a blanket of snow covers the surrounding fields. Yet welcoming us is the warm smile of Kenneth Karlsson, a Swedish contractor who has made returning to the land a true life choice.
