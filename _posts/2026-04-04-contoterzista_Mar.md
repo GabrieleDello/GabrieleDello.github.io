@@ -15,7 +15,7 @@ This conversation turned out to be a nice piece published in ["Il Contoterzista"
 
 I acknowledge Kenneth and Vilhelm from [Väderstad AB](https://www.vaderstad.com/en) to make the interview possible.
 
-The full interview is available in the March issue. Please give a look to the [preview](https://reader.directreader.it/read/prj_5c65a3bbf1be0/pub_5c65a3bc1656c/5000-05-30?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2NWEzYmJmMWJlMCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.1N7k8OMn3dvIUIM_d07B0QYABQkeaq8jF8dTnUr7PIM&page=1). 
+The full interview is available in March issue. Please give a look to the [preview](https://reader.directreader.it/read/prj_5c65a3bbf1be0/pub_5c65a3bc1656c/5000-05-30?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2NWEzYmJmMWJlMCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.1N7k8OMn3dvIUIM_d07B0QYABQkeaq8jF8dTnUr7PIM&page=1). 
 
 <embed src="/assets/pdf/202603-CT-Enköping.pdf"
        type="application/pdf"
