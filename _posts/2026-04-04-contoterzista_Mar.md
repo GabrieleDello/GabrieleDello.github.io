@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to the farmland - the story of Kenneth Karlsson, founder of Enköpings Maskinstation AB"
-date: 2026-01-20 08:00:00 +0200
+date: 2026-04-03 08:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
