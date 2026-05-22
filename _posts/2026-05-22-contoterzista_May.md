@@ -23,4 +23,4 @@ The full interview is available in May issue. Please give a look to the [preview
 <embed src="/assets/pdf/202605-CT-54-57.pdf"
        type="application/pdf"
        width="100%"
-       height="600px">
+       height="800px">
