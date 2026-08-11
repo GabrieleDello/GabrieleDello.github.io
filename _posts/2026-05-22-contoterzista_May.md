@@ -18,6 +18,8 @@ An interesting example of pragmatic and forward-thinking agriculture.
 
 I acknowledge Harry for his kindness and availability. 
 
+The piece is available here: [Harrysfarm, dove la terra sottratta all’acqua guarda al futuro](https://contoterzista.edagricole.it/esperienze-di-agromeccanici-europei/harrysfarm-dove-la-terra-sottratta-allacqua-guarda-al-futuro/)
+
 The full interview is available in May issue. Please give a look to the [preview](https://publications.mazzmedia.com/sHyEbQ575tHuTTgrtyWFn6M3165A3P). 
 
 <embed src="/assets/pdf/202605-CT-54-57.pdf"
