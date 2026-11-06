@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fewer Passes, More Soil Moisture"
-date: 2026-11-06 05:00:00 +0200
+date: 2026-11-06 08:00:00 +0200
 categories: [magazine, tractor, writing]
 tags: [publication, jekyll, blog]
 author: "Gabriele Dell'Orto"
