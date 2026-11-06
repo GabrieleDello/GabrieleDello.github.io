@@ -14,7 +14,7 @@ The latest article for *Il Contoterzista* headed me to Mistelbach, in Lower Aust
 
 We talked about tractors too, of course. Simon shared his passion for his John Deere 6410, an old glory still running daily at the farm. This does not keep Simon aside from innovation: for example, he is testing fertiliser prescription maps based on satellite imagery, with the aim to see if this technology may fit his needs. 
 
-The piece is available here: [SPernold, coltivare conservando l’umidità](https://contoterzista.edagricole.it/esperienze-di-agromeccanici-europei/pernold-coltivare-conservando-lumidita/), in both Italian and English.
+The full story is available here: [Pernold, coltivare conservando l’umidità](https://contoterzista.edagricole.it/esperienze-di-agromeccanici-europei/pernold-coltivare-conservando-lumidita/), in both Italian and English.
 
 
 ["Il Contoterzista"](https://contoterzista.edagricole.it/contoterzista-la-rivista/) is the official magazine of the Italian contractors' body [CAI Agromec](http://www.caiagromec.it/).
