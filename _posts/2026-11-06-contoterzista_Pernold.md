@@ -21,7 +21,7 @@ The full story is available here: [Pernold, coltivare conservando l’umidità](
 
 Many thanks to Simon for his time and for sharing his story.
 
-<embed src="/assets/pdf/202607-CT-76-79.pdf"
+<embed src="/assets/pdf/202609-CT-76-79.pdf"
        type="application/pdf"
        width="100%"
        height="800px">
